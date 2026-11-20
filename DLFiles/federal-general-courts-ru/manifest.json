@@ -1,0 +1,64 @@
+{
+    "format_version":  1,
+    "original_file":  "federal-general-courts-ru.parquet",
+    "original_bytes":  665271147,
+    "sha256":  "dfdeda4d5764aae88260a33a87ebb43ea1163178a8e65818d0c530dd0bfbfb14",
+    "part_bytes":  80000000,
+    "part_count":  9,
+    "parts":  [
+                  {
+                      "index":  1,
+                      "file":  "federal-general-courts-ru.parquet.part-00001.bin",
+                      "bytes":  80000000,
+                      "sha256":  "7a51df88ae4990889c79ead4c80509dde43bfce709b6e1053a7aa199652d48ae"
+                  },
+                  {
+                      "index":  2,
+                      "file":  "federal-general-courts-ru.parquet.part-00002.bin",
+                      "bytes":  80000000,
+                      "sha256":  "bd066dcf82f2e15e944e70d1696e029996ac36e70d867ce07cf8159093371fc8"
+                  },
+                  {
+                      "index":  3,
+                      "file":  "federal-general-courts-ru.parquet.part-00003.bin",
+                      "bytes":  80000000,
+                      "sha256":  "3d040abffa11ca9357c02c59e217d5b77a94685efcd53d4178984f636a9f0e35"
+                  },
+                  {
+                      "index":  4,
+                      "file":  "federal-general-courts-ru.parquet.part-00004.bin",
+                      "bytes":  80000000,
+                      "sha256":  "f02290d0dae887acc535db13a7fcaf31647169937915dafb0b35dc3101361446"
+                  },
+                  {
+                      "index":  5,
+                      "file":  "federal-general-courts-ru.parquet.part-00005.bin",
+                      "bytes":  80000000,
+                      "sha256":  "a289a59952282fbbf6679312ebdb8ac120388672d3630e5e56f536896ebbc52a"
+                  },
+                  {
+                      "index":  6,
+                      "file":  "federal-general-courts-ru.parquet.part-00006.bin",
+                      "bytes":  80000000,
+                      "sha256":  "12cca39128fab8ac96ec341b16a1ac7665ba6d6444400bedf9f3842c286d0a89"
+                  },
+                  {
+                      "index":  7,
+                      "file":  "federal-general-courts-ru.parquet.part-00007.bin",
+                      "bytes":  80000000,
+                      "sha256":  "59d33fc29b74eed1ae9bea5e392f30aa8f4fcb9ea718f8ce259271d219c8bddc"
+                  },
+                  {
+                      "index":  8,
+                      "file":  "federal-general-courts-ru.parquet.part-00008.bin",
+                      "bytes":  80000000,
+                      "sha256":  "b342337ca531ce24c45e6f8611dc4dc206ed959360f2963429bb97962f6541f9"
+                  },
+                  {
+                      "index":  9,
+                      "file":  "federal-general-courts-ru.parquet.part-00009.bin",
+                      "bytes":  25271147,
+                      "sha256":  "19aa13e3efc7cd52af2549b7a10f2877a9ffdcdb7cccc8ec02d4e22f9175b22d"
+                  }
+              ]
+}
