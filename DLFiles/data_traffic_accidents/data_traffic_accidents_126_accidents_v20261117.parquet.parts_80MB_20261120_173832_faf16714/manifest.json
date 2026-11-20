@@ -1,0 +1,22 @@
+{
+    "format_version":  1,
+    "original_file":  "data_traffic_accidents_126_accidents_v20261117.parquet",
+    "original_bytes":  100921610,
+    "sha256":  "128ad895ba8cebf561453b83cd8d4ea762fc956760774110209eca4871bd8cea",
+    "part_bytes":  80000000,
+    "part_count":  2,
+    "parts":  [
+                  {
+                      "index":  1,
+                      "file":  "data_traffic_accidents_126_accidents_v20261117.parquet.part-00001.bin",
+                      "bytes":  80000000,
+                      "sha256":  "2d13ba4218c361cf134d2a224986756742b707d8cf340164b7c204c7f9f06d35"
+                  },
+                  {
+                      "index":  2,
+                      "file":  "data_traffic_accidents_126_accidents_v20261117.parquet.part-00002.bin",
+                      "bytes":  20921610,
+                      "sha256":  "d80ffbb8b5673b3c2c27d01cc2aa05bf67d99fd11d522aeaa79e1b3466ac4b39"
+                  }
+              ]
+}
